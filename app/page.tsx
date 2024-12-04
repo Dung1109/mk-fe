@@ -84,8 +84,8 @@ export default function Page() {
             {data2}
             {/*<br/>*/}
             {/*{`User: ${data3}`}*/}
-            {/*<br/>*/}
-            {/*{`Token: ${token}`}*/}
+            <br/>
+            {`Token: ${token}`}
         </div>
     );
 }
